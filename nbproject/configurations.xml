@@ -41,7 +41,11 @@
           <preBuildCommand></preBuildCommand>
         </preBuild>
       </makefileType>
+      <item path="app/LedBlinker.cpp" ex="false" tool="1" flavor2="0">
+      </item>
       <item path="app/application.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="include/LedBlinker.h" ex="false" tool="3" flavor2="0">
       </item>
     </conf>
   </confs>
